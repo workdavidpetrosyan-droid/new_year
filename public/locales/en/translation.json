@@ -1,0 +1,35 @@
+{
+  "brand": "Eurasia International University",
+  "subtitle": "IT Department",
+
+  "event": {
+    "title": "EIU IT Holiday Night @ Friends Pub",
+    "dateLabel": "Date & time",
+    "venueLabel": "Venue"
+  },
+
+  "form": {
+    "title": "Registration",
+    "firstName": "Name",
+    "lastName": "Surname",
+    "email": "Email",
+    "phone": "Phone number",
+    "role": "Year of studies / Lecturer",
+    "roleYear": "Year {{n}}",
+    "roleLecturer": "Lecturer / Staff",
+    "consent": "I agree to the privacy notice and consent to processing for event registration.",
+    "privacy": "To edit or delete your data, contact: {{email}}",
+    "captchaRequired": "Please complete the captcha.",
+    "submitting": "Submitting…",
+    "submit": "Register"
+  },
+
+  "status": {
+    "successTitle": "Registered!",
+    "successBody": "We received your registration. Confirmation will be sent to {{email}}.",
+    "duplicate": "This email is already registered.",
+    "captcha": "Captcha verification failed. Please try again.",
+    "invalid": "Please fix the form errors and try again.",
+    "server": "Server error. Please try again."
+  }
+}
